@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./src/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + TS</title>
+  </head>
+  <body>
+    <div id="app">
+      <form>
+        <input type="text" placeholder="write text" id="inputText">
+        <input type="number" placeholder="key" id="inputKey" min="0" max="26">
+        <button type="button" id="encoderBtn">encoder</button>
+        <button type="button" id="decoderBtn">decoder</button>
+      </form>
+
+      <section id="output"></section>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
