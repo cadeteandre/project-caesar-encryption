@@ -24,3 +24,5 @@ Example of encoding with a key of `3`:
 - **TypeScript**: The primary language used to implement the cipher logic.
 - **HTML/CSS**: For the graphical interface (if applicable).
 - **JavaScript**: For DOM manipulation and handling events in the interface (if applicable).
+
+![title](./src/img/flowchart.jpg)
