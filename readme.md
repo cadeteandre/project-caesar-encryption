@@ -1,1 +1,1 @@
-![title](./src/assets/img/flowchart_caesar_project.jpg)
+![title](./src/img/flowchart_caesar_project.jpg)
