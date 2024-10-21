@@ -25,4 +25,4 @@ Example of encoding with a key of `3`:
 - **HTML/CSS**: For the graphical interface (if applicable).
 - **JavaScript**: For DOM manipulation and handling events in the interface (if applicable).
 
-<!-- ![title](./src/img/) -->
+![title](./src/img/flowchart_caesar.jpg)
